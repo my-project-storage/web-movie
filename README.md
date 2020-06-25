@@ -9,4 +9,5 @@
 
 -   react
     -   state, props, router, api호출 기초 지식
+    -   class형 컴포넌트에서 생명주기 메서드
 -   css
